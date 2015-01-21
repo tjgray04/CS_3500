@@ -19,5 +19,9 @@ namespace TestProject
         {
 
         }
+        void I ()
+        {
+
+        }
     }
 }
