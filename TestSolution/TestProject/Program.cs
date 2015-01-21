@@ -19,5 +19,9 @@ namespace TestProject
         {
 
         }
+        static void h()
+        {
+
+        }
     }
 }
