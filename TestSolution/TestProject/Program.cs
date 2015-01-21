@@ -19,6 +19,10 @@ namespace TestProject
         {
 
         }
+        static void h()
+        {
+
+        }
         void I ()
         {
 
