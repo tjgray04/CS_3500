@@ -11,5 +11,10 @@ namespace TestProject
         static void Main(string[] args)
         {
         }
+        static void f()
+        {
+
+        }
+        
     }
 }
