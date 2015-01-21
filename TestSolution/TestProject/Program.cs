@@ -15,6 +15,9 @@ namespace TestProject
         {
 
         }
-        
+        static void g()
+        {
+
+        }
     }
 }
